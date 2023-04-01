@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to Jekyll!
+comments: true
 subtitle: A awesome static site generator.
 author: Jeffrey
 categories: jekyll
